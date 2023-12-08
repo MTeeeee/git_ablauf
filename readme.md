@@ -29,10 +29,15 @@ Schiebt die veränderten Dateien in den staging Berich
 
 # Branches
 
+Zeigt die existierenden Branches und verdeutlicht mit einem * den Zweig auf dem wir sind:
+
 `git branch`
 
-Zeigt die existierenden Branches und verdeutlicht mit einem * den Zweig auf dem wir sind.
+Erzeugt einen  neuen Branch:
 
 `git branch <branch_name>`
 
-Erzeugt einen  neuen Branch
+
+Wechsle auf einen anderen Branch
+
+`git checkout <branch_name>`
