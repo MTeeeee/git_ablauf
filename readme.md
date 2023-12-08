@@ -41,3 +41,6 @@ Erzeugt einen  neuen Branch:
 Wechsle auf einen anderen Branch
 
 `git checkout <branch_name>`
+
+Es kann passieren das ein "merge confilct" entsteht, wenn die Zweige die zusammengeführt werden sollen.
+Darauf müssen wir achten und git wird uns bitten den confict zu lösen.
