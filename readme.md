@@ -42,5 +42,13 @@ Wechsle auf einen anderen Branch
 
 `git checkout <branch_name>`
 
+Jetzt meinen Branch bearbeiten und genauso commiten.
+Hinweis: beim ersten push auf den Branch einmail 
+`git push -u origin <banch_name>`
+Hiernach kann wieder das einfache git push verwendet werden.
+
 Es kann passieren das ein "merge confilct" entsteht, wenn die Zweige die zusammengeführt werden sollen.
 Darauf müssen wir achten und git wird uns bitten den confict zu lösen.
+
+
+
