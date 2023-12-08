@@ -50,5 +50,5 @@ Hiernach kann wieder das einfache git push verwendet werden.
 Es kann passieren das ein "merge confilct" entsteht, wenn die Zweige die zusammengeführt werden sollen.
 Darauf müssen wir achten und git wird uns bitten den confict zu lösen.
 
-
+In der Regel arbeiten wir mit Pull Requests
 
