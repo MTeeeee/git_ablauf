@@ -20,4 +20,19 @@ Schiebt die veränderten Dateien in den staging Berich
 
 5. Wir wollen nun die Veränderungen offizell ins Repository hinzufügen.
 
-`git commit -m "modify readme and ad python file`
+`git commit -m "modify readme and ad python file"`
+
+6. Wir laden das Repository auf Github
+
+`git push`
+
+
+# Branches
+
+`git branch`
+
+Zeigt die existierenden Branches und verdeutlicht mit einem * den Zweig auf dem wir sind.
+
+`git branch <branch_name>`
+
+Erzeugt einen  neuen Branch
